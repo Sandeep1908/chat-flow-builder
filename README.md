@@ -26,3 +26,4 @@ cd chat-flow-builder
 ├── index.html        # Main HTML file
 ├── package.json      # Dependencies and scripts
 └── vite.config.js    # Vite configuration
+```
