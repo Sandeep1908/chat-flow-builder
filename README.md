@@ -8,12 +8,13 @@ This project is built with **React** and **Vite** for fast development and optim
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sandeep1908/chat-flow-builder.git
+cd chat-flow-builder
+```
 
-```npm install
+```npm install```
 
-```npm run dev
+```npm run dev```
 
 
 ├── public/           # Static assets
