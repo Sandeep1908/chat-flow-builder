@@ -16,7 +16,7 @@ cd chat-flow-builder
 
 ```npm run dev```
 
-
+```
 ├── public/           # Static assets
 ├── src/              # Source code
 │   ├── assets/       # Images, icons, etc.
